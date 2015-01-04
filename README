@@ -1,0 +1,1 @@
+Note format of the input file, simply name of the person on each line, followed by newline character. Program returns error if number of users is not a power of 2.
